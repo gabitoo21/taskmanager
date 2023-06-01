@@ -1,0 +1,6 @@
+despues de clonar les va hacer falta descargar el node_module
+se hace con >>> npm install
+
+para agregar funcion agregar.js mover la linea 2 de index.js de tareas a tu archivo creado, y crear una const (escribirJSON) = require("../data")
+
+y el editar el que se animo lo amo ah sino lo vemos entre todos
